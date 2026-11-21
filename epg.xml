@@ -64,10 +64,6 @@
     <display-name lang="en">Gemporia TV</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png"></icon>
   </channel>
-<channel id="GreatMovies.uk">
-    <display-name lang="en">GREAT! Movies</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-uk.png"></icon>
-  </channel>
 <channel id="HobbyMaker.uk">
     <display-name lang="en">Hobby Maker HD</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png"></icon>
@@ -635,6 +631,10 @@
 <channel id="GB1900006O6">
     <display-name>Barbie &amp; Friends</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900006O6_20260901T102431SQUARE.png"/>
+  </channel>
+<channel id="GBBC900007Q5">
+    <display-name>Great! Movies</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20251125T095955SQUARE.png"/>
   </channel>
 <channel id="GBBA3300050RG">
     <display-name>wedo movies</display-name>
@@ -29572,6 +29572,31 @@
     <rating>
       <value>10</value>
     </rating>
+  </programme>
+<programme channel="GBBC900007Q5" start="20261121181347 +0000" stop="20261121194322 +0000">
+    <title>An Organized Killer</title>
+    <desc>(2021) Thriller with Allison McAtee. Needing help with her full but chaotic life, Grace hires a live-in assistant. And once Lilith is invited in, there's nothing she won't do... to get what she wants.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1915738514_0_20260608T124515303Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-nszs2.jpeg"/>
+  </programme>
+<programme channel="GBBC900007Q5" start="20261121194322 +0000" stop="20261121211047 +0000">
+    <title>A Teacher's Obsession</title>
+    <desc>(2015) Obsessive drama with Mia Rose Frampton. A troubled high school student meets a teacher who offers to help her avoid probation, but her methods prove unethical, disturbing and ultimately deadly.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1812303634_0_20260429T104645831Z_24_imageprocessorclient-tvplus-linear-74d4c47476-658k9.jpeg"/>
+  </programme>
+<programme channel="GBBC900007Q5" start="20261121211047 +0000" stop="20261121225217 +0000">
+    <title>Eye For An Eye</title>
+    <desc>(2019) Crime noir with John Travolta and Morgan Freeman. A hard-drinking private eye takes on a missing persons case, but as he unravels a web of corruption and crime, who is holding all the cards?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485331441_0_20231018T125756402Z_134.jpeg"/>
+  </programme>
+<programme channel="GBBC900007Q5" start="20261121225217 +0000" stop="20261122004020 +0000">
+    <title>Jack Hunter And The Star Of Heaven</title>
+    <desc>(2008) Action starring Ivan Sergei. When archaeologist Jack Hunter's mentor is killed, he must find the culprit and stop ancient treasure falling into the wrong hands.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_831392555_0_20250425T160137487Z_21_imageprocessorclient-tvplus-linear-6fb5b47f79-5hxrw.jpeg"/>
+  </programme>
+<programme channel="GBBC900007Q5" start="20261122004020 +0000" stop="20261122021503 +0000">
+    <title>Super Eruption</title>
+    <desc>(2011) Explosive sci-fi with Richard Burgi. When the dormant supervolcano under Yellowstone National Park erupts, millions of lives are at risk. Can Rangers Charlie and Kate save the day?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1096015934_0_20250729T213835023Z_103_imageprocessorclient-tvplus-linear-5db7c6bc99-cxmlx.jpeg"/>
   </programme>
 <programme channel="GBBC900008L9" start="20261121130230 +0000" stop="20261121144150 +0000">
     <title>Christmas Plus One</title>
