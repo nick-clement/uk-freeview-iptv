@@ -1,7 +1,7 @@
 name: Update guide
 on:
   schedule:
-    - cron: "17 */4 * * *"
+    - cron: "7 * * * *"
   workflow_dispatch:
   push:
     paths: ["uk-freeview.m3u", "build_epg.py"]

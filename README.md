@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/nick-clement/uk-freeview-iptv/main/uk-freeview
 
 Many streams only work inside the UK.
 
-Guide: `epg.xml` in this repo is rebuilt every 4 hours by a GitHub Action (`build_epg.py`).
+Guide: `epg.xml` in this repo is rebuilt every hour by a GitHub Action (`build_epg.py`).
