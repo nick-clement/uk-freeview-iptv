@@ -1,6 +1,6 @@
 # UK Freeview-style IPTV playlist
 
-165 UK channels in Freeview-style numbering, with logos and guide data.
+326 UK channels in Freeview-style numbering, with logos and guide data.
 
 Playlist URL:
 https://raw.githubusercontent.com/nick-clement/uk-freeview-iptv/main/uk-freeview.m3u
