@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1",BBC Radio 1 ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="21",BBC Radio 1 uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="2",BBC Radio 1Xtra ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="22",BBC Radio 1Xtra uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="3",BBC Radio 2 ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="23",BBC Radio 2 uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="4",BBC Radio 3 ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="24",BBC Radio 3 uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="5",BBC Radio 4 ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="25",BBC Radio 4 uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="6",BBC Radio 5 Live ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="26",BBC Radio 5 Live uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="7",BBC Radio 5 Sports Extra ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="27",BBC Radio 5 Sports Extra uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="8",BBC Radio 6 Music ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="28",BBC Radio 6 Music uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="9",BBC Radio 4 Extra ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="29",BBC Radio 4 Extra uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-chno="10",BBC Asian Network ww
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-chno="30",BBC Asian Network uk
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d320000.norewind.m3u8
