@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/nick-clement/uk-freeview-iptv/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/nick-clement/uk-freeview-iptv/main/epg.xml"
 #EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-name="BBC One" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png" tvg-country="GB" group-title="Freeview",BBC One
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.m3u8
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="BBC Two" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-two-uk.png" tvg-country="GB" group-title="Freeview",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" tvg-country="GB" group-title="Freeview",S4C
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8
 #EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-name="BBC Four" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-four-uk.png" tvg-country="GB" group-title="Freeview",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="GBBD3100006XM" tvg-name="Sky Mix" tvg-chno="11" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20260421T123849SQUARE.png" tvg-country="GB" group-title="Freeview",Sky Mix
 https://jmp2.uk/stvp-GBBD3100006XM
 #EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/in/out/QVC_2019_II.png" tvg-country="GB" group-title="Shopping",QVC
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png" tvg-country="GB" group-title="Shopping",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="BBCThreeHD.uk" tvg-name="BBC Three" tvg-chno="23" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-uk.png" tvg-country="GB" group-title="Freeview",BBC Three
@@ -237,8 +237,6 @@ https://jmp2.uk/stvp-GB3700008XB
 https://jmp2.uk/stvp-GBBD260000189
 #EXTINF:-1 tvg-id="GBBD4100010H1" tvg-name="Crime Network" tvg-chno="525" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20261110T043934SQUARE.png" tvg-country="GB" group-title="Crime",Crime Network
 https://jmp2.uk/stvp-GBBD4100010H1
-#EXTINF:-1 tvg-id="GBBD3700001AB" tvg-name="DATELINE 24/7" tvg-chno="526" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3700001AB_20250211T013910SQUARE.png" tvg-country="GB" group-title="Crime",DATELINE 24/7
-https://jmp2.uk/stvp-GBBD3700001AB
 #EXTINF:-1 tvg-id="GB4900001NW" tvg-name="Deadly Women" tvg-chno="527" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png" tvg-country="GB" group-title="Crime",Deadly Women
 https://jmp2.uk/stvp-GB4900001NW
 #EXTINF:-1 tvg-id="GB3700011PO" tvg-name="Evidence of Evil" tvg-chno="528" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700011PO_20251111T012230SQUARE.png" tvg-country="GB" group-title="Crime",Evidence of Evil
@@ -326,8 +324,8 @@ https://jmp2.uk/stvp-GB3400001ND
 #EXTINF:-1 tvg-id="GB340000289" tvg-name="YAAAS!" tvg-chno="615" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB340000289_20250107T031304SQUARE.png" tvg-country="GB" group-title="Kids",YAAAS!
 https://jmp2.uk/stvp-GB340000289
 #EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty" tvg-chno="801" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png" tvg-country="GB" group-title="Shopping",QVC Beauty
-https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
 #EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra" tvg-chno="802" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png" tvg-country="GB" group-title="Shopping",QVC Extra
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC Style" tvg-chno="803" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png" tvg-country="GB" group-title="Shopping",QVC Style
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
