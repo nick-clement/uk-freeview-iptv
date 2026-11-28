@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Check every stream in uk-freeview.m3u and print a status per channel."""
 import re, urllib.request, concurrent.futures as cf
-L = open("uk-freeview.m3u", encoding="utf-8").read().splitlines()
+L = open(__import__("sys").argv[1] if len(__import__("sys").argv)>1 else "uk-freeview.m3u", encoding="utf-8").read().splitlines()
 ents = [(re.search(r'tvg-chno="(\d+)"', L[i]).group(1), L[i].rsplit(",", 1)[1], L[i + 1])
         for i in range(len(L) - 1) if L[i].startswith("#EXTINF")]
 UA = {"User-Agent": "Mozilla/5.0 (AppleTV; tvOS 18) AppleCoreMedia"}

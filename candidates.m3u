@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1",S4C new
+https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8
+#EXTINF:-1 tvg-chno="2",QVC master
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-chno="3",QVC Beauty master
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-chno="4",QVC Extra master
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-chno="5",QVC Style master
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-chno="6",BBC One pushb hd
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-chno="7",BBC One pushb london
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-chno="8",BBC One push london
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-chno="9",BBC One yorks (known good)
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-chno="10",BBC One pushb bogus
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_nowhere/iptv_hd_abr_v1.m3u8
