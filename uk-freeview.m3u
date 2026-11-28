@@ -41,8 +41,6 @@ https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GB300032DX" tvg-name="That's 70's" tvg-chno="78" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300032DX_20261110T044747SQUARE.png" tvg-country="GB" group-title="Freeview",That's 70's
 https://jmp2.uk/stvp-GB300032DX
-#EXTINF:-1 tvg-id="TVWarehouse.uk" tvg-name="TV Warehouse" tvg-chno="87" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tv-warehouse-uk.png" tvg-country="GB" group-title="Shopping",TV Warehouse
-https://tvwarehouse.r.worldssl.net/mystream.m3u8
 #EXTINF:-1 tvg-id="GBBA3300050RG" tvg-name="wedo movies" tvg-chno="98" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300050RG_20250107T022808SQUARE.png" tvg-country="GB" group-title="Freeview",wedo movies
 https://jmp2.uk/stvp-GBBA3300050RG
 #EXTINF:-1 tvg-id="BBCOneWest.uk" tvg-name="BBC One West" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png" tvg-country="GB" group-title="Regional",BBC One West

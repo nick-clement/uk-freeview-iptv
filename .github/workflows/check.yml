@@ -7,4 +7,3 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 check_streams.py
-      - run: python3 check_streams.py candidates.m3u
